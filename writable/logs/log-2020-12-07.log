@@ -1,0 +1,24 @@
+CRITICAL - 2020-12-07 14:35:08 --> Class 'app\Controllers\BaseController' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-07 14:41:37 --> Class 'app\Controllers\BaseController' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-07 14:43:09 --> Class 'app\Controllers\BaseController' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-07 14:58:43 --> Class 'app\Controllers\BaseController' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-07 15:02:35 --> Class 'app\Controllers\BaseController' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-07 15:02:44 --> Class 'app\Controllers\BaseController' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-07 15:09:37 --> Class 'app\Controllers\BaseController' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-07 15:09:57 --> Class 'app\Controllers\BaseController' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

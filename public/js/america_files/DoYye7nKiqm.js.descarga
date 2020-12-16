@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["4tzOv"]); }
+
+__d("CometVideoHomePlaylistRootQuery$Parameters",[],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:"3845756738776824",metadata:{},name:"CometVideoHomePlaylistRootQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("CometVideoHomePlaylistRoot.entrypoint",["JSResourceForInteraction","WebPixelRatio","buildCometVideoHomeRoute.entrypoint","qex","CometVideoHomePlaylistRootQuery$Parameters"],(function(a,b,c,d,e,f){"use strict";a=b("buildCometVideoHomeRoute.entrypoint")(b("JSResourceForInteraction")("CometVideoHomePlaylistRoot.react").__setRef("CometVideoHomePlaylistRoot.entrypoint"),function(a){a={id:a.routeProps.id};return{queries:{playlistRootQueryReference:{parameters:b("CometVideoHomePlaylistRootQuery$Parameters"),variables:{feedHeroEnabled:!!b("qex")._("1418988"),scale:b("WebPixelRatio").get(),trigger_data:a}}}}});e.exports=a}),null);

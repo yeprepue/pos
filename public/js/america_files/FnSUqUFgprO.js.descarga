@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["R+ucd"]); }
+
+__d("useCometReportBug",["fbt","CometCardedDialogLoadingState.react","JSResourceForInteraction","React","useCometLazyDialog"],(function(a,b,c,d,e,f,g){"use strict";e.exports=a;var h=b("React"),i=b("JSResourceForInteraction")("CometBugReportingDialog.react").__setRef("useCometReportBug"),j=!1;function a(){var a=b("useCometLazyDialog")(i,function(a){return h.jsx(b("CometCardedDialogLoadingState.react"),{onClose:a,title:g._("Enviar comentarios a Facebook"),withCloseButton:!0})}),c=a[0];a=a[1];var d=h.useCallback(function(a,b){a===void 0&&(a={}),j||(c(a,function(){b!=null&&b(),j=!1}),j=!0)},[c]);return[d,a]}}),null);

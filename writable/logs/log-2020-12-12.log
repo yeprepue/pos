@@ -1,0 +1,140 @@
+CRITICAL - 2020-12-12 11:47:36 --> Undefined variable: datos
+#0 C:\xampp\htdocs\pos\app\Views\unidades\unidades.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\pos\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#3 C:\xampp\htdocs\pos\app\Controllers\Unidades.php(28): view('unidades/unidad...', Array)
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Unidades->nuevo()
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#6 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-12 11:49:52 --> Undefined variable: datos
+#0 C:\xampp\htdocs\pos\app\Views\unidades\unidades.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\pos\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#3 C:\xampp\htdocs\pos\app\Controllers\Unidades.php(28): view('unidades/unidad...', Array)
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Unidades->nuevo()
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#6 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-12 11:49:55 --> Undefined variable: datos
+#0 C:\xampp\htdocs\pos\app\Views\unidades\unidades.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\pos\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#3 C:\xampp\htdocs\pos\app\Controllers\Unidades.php(28): view('unidades/unidad...', Array)
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Unidades->nuevo()
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#6 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-12 11:50:10 --> Undefined variable: datos
+#0 C:\xampp\htdocs\pos\app\Views\unidades\unidades.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\pos\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#3 C:\xampp\htdocs\pos\app\Controllers\Unidades.php(28): view('unidades/unidad...', Array)
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Unidades->nuevo()
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#6 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-12 13:47:32 --> Too few arguments to function App\Controllers\Unidades::editar(), 0 passed in C:\xampp\htdocs\pos\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Unidades->editar()
+#1 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#2 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-12 13:49:36 --> Too few arguments to function App\Controllers\Unidades::editar(), 0 passed in C:\xampp\htdocs\pos\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Unidades->editar()
+#1 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#2 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-12 14:17:11 --> Too few arguments to function App\Controllers\Unidades::eliminar(), 0 passed in C:\xampp\htdocs\pos\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Unidades->eliminar()
+#1 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#2 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-12 14:18:53 --> Too few arguments to function App\Controllers\Unidades::eliminar(), 0 passed in C:\xampp\htdocs\pos\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Unidades->eliminar()
+#1 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#2 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-12 15:05:11 --> Invalid file: categorias/categorias.php
+#0 C:\xampp\htdocs\pos\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias/cate...')
+#1 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('categorias/cate...', Array, true)
+#2 C:\xampp\htdocs\pos\app\Controllers\categorias.php(21): view('categorias/cate...', Array)
+#3 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Categorias->index()
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-12 15:06:31 --> Invalid file: categorias/categorias.php
+#0 C:\xampp\htdocs\pos\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias/cate...')
+#1 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('categorias/cate...', Array, true)
+#2 C:\xampp\htdocs\pos\app\Controllers\categorias.php(21): view('categorias/cate...', Array)
+#3 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Categorias->index()
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-12 15:11:17 --> Invalid file: categorias/categorias.php
+#0 C:\xampp\htdocs\pos\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias/cate...')
+#1 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('categorias/cate...', Array, true)
+#2 C:\xampp\htdocs\pos\app\Controllers\categorias.php(21): view('categorias/cate...', Array)
+#3 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Categorias->index()
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-12 15:12:00 --> Invalid file: categorias/categorias.php
+#0 C:\xampp\htdocs\pos\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias/cate...')
+#1 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('categorias/cate...', Array, true)
+#2 C:\xampp\htdocs\pos\app\Controllers\Categorias.php(21): view('categorias/cate...', Array)
+#3 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Categorias->index()
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-12 15:12:35 --> Invalid file: categorias/categorias.php
+#0 C:\xampp\htdocs\pos\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias/cate...')
+#1 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('categorias/cate...', Array, true)
+#2 C:\xampp\htdocs\pos\app\Controllers\Categorias.php(21): view('categorias/cate...', Array)
+#3 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Categorias->index()
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-12 15:18:06 --> Invalid file: categorias/categorias.php
+#0 C:\xampp\htdocs\pos\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias/cate...')
+#1 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('categorias/cate...', Array, true)
+#2 C:\xampp\htdocs\pos\app\Controllers\Categorias.php(21): view('categorias/cate...', Array)
+#3 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Categorias->index()
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-12 15:20:14 --> Invalid file: categorias/categorias.php
+#0 C:\xampp\htdocs\pos\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categorias/cate...')
+#1 C:\xampp\htdocs\pos\system\Common.php(1119): CodeIgniter\View\View->render('categorias/cate...', Array, true)
+#2 C:\xampp\htdocs\pos\app\Controllers\Categorias.php(21): view('categorias/cate...', Array)
+#3 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Categorias->index()
+#4 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-12 15:29:51 --> Column 'nombre_corto' cannot be null
+#0 C:\xampp\htdocs\pos\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `un...')
+#1 C:\xampp\htdocs\pos\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `un...')
+#2 C:\xampp\htdocs\pos\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `un...')
+#3 C:\xampp\htdocs\pos\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `un...', Array, false)
+#4 C:\xampp\htdocs\pos\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\pos\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 C:\xampp\htdocs\pos\app\Controllers\Unidades.php(41): CodeIgniter\Model->save(Array)
+#7 C:\xampp\htdocs\pos\system\CodeIgniter.php(918): App\Controllers\Unidades->insertar()
+#8 C:\xampp\htdocs\pos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#9 C:\xampp\htdocs\pos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pos\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
